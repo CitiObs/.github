@@ -66,3 +66,10 @@ Each tool is licensed on its own repository. Make sure to check them before hand
 ---
 
 For more information, visit the official [CitiObs website](https://citiobs.eu/).
+
+## Funding
+
+<div style="display: inline-block"><img src="https://citiobs.eu/wp-content/uploads/sites/24/2023/02/EN_Co-funded_by_the_EU_POS-removebg-preview.png" style="width: 300px">
+<p>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Research Executive Agency (REA). Neither the European Union nor the granting authority can be held responsible for them.
+</p>
+</div>
