@@ -6,7 +6,7 @@ CitiObs (Enhancing Citizen Observatories for healthy, sustainable, resilient and
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [Technological Tools](#technological-tools)
+- [Environmental Monitoring Toolkit](#environmental-monitoring-toolkit)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -24,7 +24,7 @@ The key goals of the CitiObs project include:
 - **Strengthen the Role of Citizen Observatories:** Promote COs as a powerful tool for research, policy-making, and climate change adaptation.
 - **Large-Scale Demonstration:** Showcase the effectiveness of CitiObs tools in enhancing Citizen Observatories across various cities and urban environments.
 
-## Technological Tools
+## Environmental Monitoring Toolkit
 
 CitiObs utilizes and develops a range of technological tools designed to support the work of Citizen Observatories. These tools are focused on enabling data collection, analysis, and integration in an open and accessible manner.
 
