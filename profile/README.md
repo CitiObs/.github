@@ -6,7 +6,6 @@ CitiObs (Enhancing Citizen Observatories for healthy, sustainable, resilient and
 
 - [Overview](#overview)
 - [Goals](#goals)
-- [Environmental Monitoring Toolkit](#environmental-monitoring-toolkit)
 - [Contributing](#contributing)
 - [License](#license)
 
