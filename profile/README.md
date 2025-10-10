@@ -24,30 +24,6 @@ The key goals of the CitiObs project include:
 - **Strengthen the Role of Citizen Observatories:** Promote COs as a powerful tool for research, policy-making, and climate change adaptation.
 - **Large-Scale Demonstration:** Showcase the effectiveness of CitiObs tools in enhancing Citizen Observatories across various cities and urban environments.
 
-## Environmental Monitoring Toolkit
-
-CitiObs utilizes and develops a range of technological tools designed to support the work of Citizen Observatories. These tools are focused on enabling data collection, analysis, and integration in an open and accessible manner.
-
-### 1. **Low-Cost Sensors & Wearables**
-   - **Air Quality Sensors:** Used to monitor environmental factors like air pollution, particulate matter (PM), and gases.
-   - **Wearables:** Devices that collect personal exposure data, allowing for the integration of individual data into broader environmental observations.
-
-### 2. **Data Collection and Integration Platforms**
-   - **Cloud-Based Platforms:** These platforms allow for the aggregation, storage, and visualization of citizen-collected environmental data.
-   - **Mobile Applications:** Allow citizens to easily contribute data through smartphones or wearable devices, offering real-time data collection.
-
-### 3. **Data Validation and Quality Assurance Tools**
-   - **Machine Learning Algorithms:** Used to validate and cross-check data for consistency and accuracy.
-   - **Data Standardization:** Methodologies to ensure that citizen data is comparable to official data sources.
-
-### 4. **Data Analytics and Visualization Tools**
-   - **Geospatial Mapping Tools:** Visualize the spatial distribution of environmental observations.
-   - **Dashboard Tools:** Provide users with interactive dashboards to analyze trends in real-time data.
-
-### 5. **Policy Support and Decision-Making Tools**
-   - **Decision Support Systems:** Help policymakers use citizen-generated data to make informed decisions regarding urban planning, air quality management, and climate adaptation.
-   - **Reporting Frameworks:** Designed to help COs present their data and findings to local, national, and EU institutions.
-
 ## Contributing
 
 We welcome contributions to the CitiObs project! If you would like to contribute to the development of the tools and methodologies, please follow these steps:
