@@ -23,6 +23,33 @@ The key goals of the CitiObs project include:
 - **Strengthen the Role of Citizen Observatories:** Promote COs as a powerful tool for research, policy-making, and climate change adaptation.
 - **Large-Scale Demonstration:** Showcase the effectiveness of CitiObs tools in enhancing Citizen Observatories across various cities and urban environments.
 
+## Main repositories
+
+- [ValAir](https://github.com/CitiObs/valair)
+- [MapAir](https://github.com/CitiObs/mapair)
+- VirtualAir
+   - [API](https://github.com/CitiObs/virtualair-api)
+   - [Web](https://github.com/CitiObs/virtualair-web)
+   - [Deployment](https://github.com/CitiObs/virtualair-deployment)
+- Decision support system
+   - [SensorThingsAPI webmap observations visualizer](https://github.com/CitiObs/SensorThingsAPI-webmap-observations-visualizer)
+   - [DSS Platform](https://github.com/CitiObs/dss-platform)
+- Tools for local communities
+   - [Jupyter notebook](https://github.com/CitiObs/CitiObs-Hands-on-data-analytical-tools-for-local-communities)
+   - [Data recipes](https://github.com/CitiObs/data-recipes)
+   - [Orange Data Mining extension for STA](https://github.com/CitiObs/orange-sensors)
+   - [TAPIS](https://github.com/CitiObs/tapis)
+ - Toolkit (source code of the documentation about topics)
+   - [Environmental Monitoring](https://github.com/CitiObs/environmental-monitoring-toolkit)
+   - [Leaving no One Behind](https://github.com/CitiObs/leaving-no-one-behind-toolkit)
+   - [Creating successful and sustainable citizen-observatories](https://github.com/CitiObs/creating-successful-and-sustainable-citizen-observatories-toolkit)
+   - [Citizen observatory participation dynamics](https://github.com/CitiObs/citizen-observatory-participation-dynamics-toolkit)
+   - [Citizen Led Action](https://github.com/CitiObs/citizen-led-action-toolkit)
+- STA support
+   - [STA Extensions](https://github.com/CitiObs/STA-Extensions)
+   - [Python Client](https://github.com/CitiObs/STAplus-Python-Client)
+   - [Ganxet WeSocket server for WebSub](https://github.com/CitiObs/ganxet)
+
 ## Contributing
 
 We welcome contributions to the CitiObs project! If you would like to contribute to the development of the tools and methodologies, please follow these steps:
