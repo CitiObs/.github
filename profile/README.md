@@ -25,7 +25,9 @@ The key goals of the CitiObs project include:
 
 ## Main repositories
 
-- [ValAir](https://github.com/CitiObs/valair)
+- ValAir
+   - [FILTER](https://github.com/CitiObs/valair-FILTER)
+   - [mFILTER](https://github.com/CitiObs/valair-mFILTER)
 - [MapAir](https://github.com/CitiObs/mapair)
 - VirtualAir
    - [API](https://github.com/CitiObs/virtualair-api)
